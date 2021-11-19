@@ -9,6 +9,10 @@ taso tenpo ni la mi lukin taso.
 
 `here's the code block`
 
+```
+If you want to type in English, just use a code block
+```
+
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/jekyll-gh-actions-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/jekyll-gh-actions-quickstart/releases/)
 
 Welcome to **Jekyll GH Actions Quickstart** project - a template, demo and tutorial.
