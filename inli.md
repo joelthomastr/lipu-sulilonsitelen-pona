@@ -13,6 +13,6 @@ nav_order: 4
 <eng>For more information, see these links:</for>
 
 - [<eng>Jekyll GH Actions Quickstart</eng>](https://michaelcurrin.github.io/jekyll-gh-actions-quickstart/)
-- [Just the Docs documentation]
+- [<eng>Just the Docs documentation</eng>](https://pmarsceill.github.io/just-the-docs/)
 
 <eng>This is a test of reverting to English text</eng>
