@@ -1538,4 +1538,10 @@ figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; 
 
 @media print { .site-footer, .site-button, #edit-this-page, #back-to-top, .site-nav, .main-header { display: none !important; } .side-bar { width: 100%; height: auto; border-right: 0 !important; } .site-header { border-bottom: 1px solid #44434d; } .site-title { font-size: 16px !important; font-weight: 700 !important; } .text-small { font-size: 8pt !important; } pre.highlight { border: 1px solid #44434d; } .main { max-width: none; margin-left: 0; } }
 
+@font-face { font-family: 'linja pona'; src: url("https://joelthomastr.github.io/lipu-suli_lukin_taso/linja-pona-4.9.otf"); }
+
+h1, h2, h3, h4, h5, h6, p, li, ul, div.site-header { font-family: 'linja pona'; text-rendering: optimizeLegibility; font-size: 1.3em; }
+
+footer.site-footer { font: inherit; }
+
 /*# sourceMappingURL=just-the-docs-dark.css.map */
