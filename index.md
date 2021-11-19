@@ -7,6 +7,8 @@ nav_order: 1
 # ni li lipu+suli
 taso tenpo ni la mi lukin taso.
 
+`here's the code block`
+
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/jekyll-gh-actions-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/jekyll-gh-actions-quickstart/releases/)
 
 Welcome to **Jekyll GH Actions Quickstart** project - a template, demo and tutorial.
