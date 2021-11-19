@@ -5,8 +5,8 @@ description: Starter template for a Jekyll 4 site - deployed with GH Actions and
 
 ### Build settings
 
-url: https://michaelcurrin.github.io
-baseurl: /jekyll-gh-actions-quickstart
+url: https://joelthomastr.github.io
+baseurl: /lipu-suli_lukin_taso
 
 theme: just-the-docs
 
