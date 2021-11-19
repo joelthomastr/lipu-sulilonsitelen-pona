@@ -1,7 +1,0 @@
-@font-face { font-family: 'linja pona'; src: url("https://joelthomastr.github.io/lipu-suli_lukin_taso/linja-pona-4.9.otf"); }
-
-h1, h2, h3, h4, h5, h6, p, li, ul, div.site-header { font-family: 'linja pona'; text-rendering: optimizeLegibility; font-size: 1.3em; }
-
-footer.site-footer { font: inherit; }
-
-/*# sourceMappingURL=style.css.map */
