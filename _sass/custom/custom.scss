@@ -9,7 +9,13 @@ h1,h2,h3,h4,h5,h6,p,li,ul,div.site-header,input.search-input {
     font-size: 1.3em;
 }
 
-.nav-list .nav-list-item .nav-list-link .nav-list-link.active .site-title {
+site-nav {
+    font-family: 'linja pona';
+    text-rendering: optimizeLegibility;
+    font-size: 1.7em;
+}
+
+.site-title {
     font-family: 'linja pona';
     text-rendering: optimizeLegibility;
     font-size: 1.7em;
@@ -19,6 +25,6 @@ footer.site-footer {
     font: inherit; 
 }
 
-eng {
+span.eng, eng {
     font: inherit;   
 }
