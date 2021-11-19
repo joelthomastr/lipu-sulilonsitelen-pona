@@ -8,8 +8,7 @@ h1,h2,h3,h4,h5,h6,p,li,ul,div.site-header,input.search-input {
     text-rendering: optimizeLegibility;
     font-size: 1.3em;
 }
-
-.nav-list-link {
+nav > a {
     font-family: 'linja pona';
     text-rendering: optimizeLegibility;
     font-size: 1.7em !important;
