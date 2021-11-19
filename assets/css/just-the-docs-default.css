@@ -1548,6 +1548,6 @@ site-nav { font-family: 'linja pona'; text-rendering: optimizeLegibility; font-s
 
 footer.site-footer { font: inherit; }
 
-span.eng, eng { font: inherit; }
+span.eng, eng { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
 
 /*# sourceMappingURL=just-the-docs-default.css.map */
