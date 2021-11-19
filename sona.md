@@ -6,6 +6,6 @@ nav_order: 3
 
 # sona
 
-sina wile e sona+mutepi++nasin sitelen [_ma_tan] <eng>(Markdown)</eng> anu nasin lukin nila o kepeken linja+wawa ni:
+sina wile e sona+mutepi++nasin sitelen [_ma_tan] <span class="eng">(Markdown)</span> anu nasin lukin nila o kepeken linja+wawa ni:
 
 - 
