@@ -1,5 +1,5 @@
 ---
-title: Home
+title: tomo
 layout: default
 nav_order: 1
 ---
