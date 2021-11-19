@@ -29,8 +29,8 @@
     "url": "https://michaelcurrin.github.io/jekyll-gh-actions-quickstart/create-your-own.html",
     "relUrl": "/create-your-own.html"
   },"5": {
-    "doc": "Home",
-    "title": "Home",
+    "doc": "tomo",
+    "title": "tomo",
     "content": ". Welcome to Jekyll GH Actions Quickstart project - a template, demo and tutorial. This site acts a demo of a site build with Jekyll 4, GitHub Actions and the just-the-docs Jekyll theme. The pages here also provide guidance on how and why this setup was made and how to get your own copy of this template so you can deploy too. Source code: . ",
     "url": "https://michaelcurrin.github.io/jekyll-gh-actions-quickstart/",
     "relUrl": "/"
