@@ -4,6 +4,8 @@ layout: default
 nav_order: 3
 ---
 
-# sina sona ala e ijo mute pi ale ni la...
+# sona
 
-mi pana e linja wawa tawa ijo mute lon lipu ni.
+sina wile e sona+mutepi++nasin sitelen [_ma_tan] <eng>(Markdown)</eng> anu nasin lukin nila o kepeken linja+wawa ni:
+
+- 
