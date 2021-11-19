@@ -1,7 +1,4 @@
-# ni li lipu+suli
-taso tenpo ni la mi lukin taso.
-
-`Jekyll GH Actions Quickstart 🧪 🎬 🚀`
+# Jekyll GH Actions Quickstart 🧪 🎬 🚀
 > Starter template for a Jekyll 4 site - deployed with GH Actions and GH Pages 
 
 <!-- Badges generated with https://github.com/MichaelCurrin/badge-generator -->
