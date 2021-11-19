@@ -1,12 +1,12 @@
 ### Site metadata
 
-title: lipu-suli_lukin_taso
+title: lipu-sulilonsitelen-pona
 description: lipu-suli pi-lipu-mute lon sitelen-pona
 
 ### Build settings
 
 url: https://joelthomastr.github.io
-baseurl: /lipu-suli_lukin_taso
+baseurl: /lipu-sulilonsitelen-pona
 
 theme: just-the-docs
 
