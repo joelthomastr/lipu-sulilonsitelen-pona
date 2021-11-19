@@ -2,25 +2,25 @@
     "doc": "tomo",
     "title": "tomo",
     "content": "sina wile pali e lipu+suli sama ni anu seme? sina ken! . sina wile la, o lukin e lipu [_nasin]. sina jo ala e sona+mute pi+++lipu sama ni la o lukin e lipu [_sona]. You too can have an online book in sitelen pona! See the EN page. ",
-    "url": "https://joelthomastr.github.io/lipu-suli_lukin_taso/",
+    "url": "https://joelthomastr.github.io/lipu-sulilonsitelen-pona/",
     "relUrl": "/"
   },"1": {
     "doc": "EN",
     "title": "EN",
     "content": "Essentially, all you need to do is fork this repository and update the _config.yml file with the correct information about your repository. This repository is a fork of Jekyll GH Actions Quickstart. After that all I did was add the linja pona font file to the top level and a _sass/custom/custom.scss file. For more information, see these links: . | Jekyll GH Actions Quickstart | Just the Docs documentation | . ",
-    "url": "https://joelthomastr.github.io/lipu-suli_lukin_taso/inli.html",
+    "url": "https://joelthomastr.github.io/lipu-sulilonsitelen-pona/inli.html",
     "relUrl": "/inli.html"
   },"2": {
     "doc": "nasin",
     "title": "nasin",
     "content": "sina ken kama jo e lipu+suli sama ni kepeken nasin seme? . | o tawa lipu ni. o kepeken ilo [_pali_ona] (Fork) | o ante e lipu pi++nasin ilo (_config.yml). o kepeken nimi pi+ma [_kepeken_ilo_tan_ale] (Github) sina e nimi pi+ma pi+lipu+suli sina. | . ",
-    "url": "https://joelthomastr.github.io/lipu-suli_lukin_taso/nasin.html",
+    "url": "https://joelthomastr.github.io/lipu-sulilonsitelen-pona/nasin.html",
     "relUrl": "/nasin.html"
   },"3": {
     "doc": "sona",
     "title": "sona",
     "content": "sina wile e sona+mutepi++nasin sitelen [_ma_ale_tan_ale_ni] (Markdown) anu nasin lukin nila o kepeken linja+wawa ni: . | lipu+sona pi+++nasin lukin ni (Just the Docs). lipu ni li pana e sona+mute pi++nasin sitelen [_ma_ale_tan_ale_ni]. | lipu+sona pi+ mama pi++lipu+suli ni (Jekyll GH Actions Quickstart). lipu+suli sina li pakala la lipu ni li ken pana e sona+pona tawa sina | . ",
-    "url": "https://joelthomastr.github.io/lipu-suli_lukin_taso/sona.html",
+    "url": "https://joelthomastr.github.io/lipu-sulilonsitelen-pona/sona.html",
     "relUrl": "/sona.html"
   }
 }

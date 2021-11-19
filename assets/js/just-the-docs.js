@@ -59,7 +59,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', 'https://joelthomastr.github.io/lipu-suli_lukin_taso/assets/css/just-the-docs-' + theme + '.css');
+  cssFile.setAttribute('href', 'https://joelthomastr.github.io/lipu-sulilonsitelen-pona/assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Document ready
