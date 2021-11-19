@@ -53,7 +53,7 @@ function initNav() {
 
 function initSearch() {
   var request = new XMLHttpRequest();
-  request.open('GET', 'https://michaelcurrin.github.io/jekyll-gh-actions-quickstart/assets/js/search-data.json', true);
+  request.open('GET', 'https://joelthomastr.github.io/lipu-suli_lukin_taso/assets/js/search-data.json', true);
 
   request.onload = function(){
     if (request.status >= 200 && request.status < 400) {
@@ -430,7 +430,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', 'https://michaelcurrin.github.io/jekyll-gh-actions-quickstart/assets/css/just-the-docs-' + theme + '.css');
+  cssFile.setAttribute('href', 'https://joelthomastr.github.io/lipu-suli_lukin_taso/assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Document ready
