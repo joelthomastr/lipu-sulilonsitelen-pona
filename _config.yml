@@ -20,3 +20,5 @@ exclude:
   - LICENSE
   - README.md
   - sample.png
+
+color_scheme: dark
