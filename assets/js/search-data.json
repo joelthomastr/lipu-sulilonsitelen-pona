@@ -30,17 +30,23 @@
     "relUrl": "/create-your-own.html"
   },"5": {
     "doc": "tomo",
+    "title": "ni li lipu+suli",
+    "content": "taso tenpo ni la mi lukin taso. Welcome to Jekyll GH Actions Quickstart project - a template, demo and tutorial. This site acts a demo of a site build with Jekyll 4, GitHub Actions and the just-the-docs Jekyll theme. The pages here also provide guidance on how and why this setup was made and how to get your own copy of this template so you can deploy too. Source code: . ",
+    "url": "https://joelthomastr.github.io/lipu-suli_lukin_taso/#ni-li-lipusuli",
+    "relUrl": "/#ni-li-lipusuli"
+  },"6": {
+    "doc": "tomo",
     "title": "tomo",
-    "content": ". Welcome to Jekyll GH Actions Quickstart project - a template, demo and tutorial. This site acts a demo of a site build with Jekyll 4, GitHub Actions and the just-the-docs Jekyll theme. The pages here also provide guidance on how and why this setup was made and how to get your own copy of this template so you can deploy too. Source code: . ",
+    "content": " ",
     "url": "https://joelthomastr.github.io/lipu-suli_lukin_taso/",
     "relUrl": "/"
-  },"6": {
+  },"7": {
     "doc": "Local setup",
     "title": "Local setup",
     "content": "This project is not intended to be run locally with a dev server. As the focus on is on content and letting the theme take care of all the appearance and templating concerns. But, if you do want to run this locally, such as for faster debugging and experimenting, I recommend following instructions and setup steps on this project: . | . It covers installing Ruby, Bundle and project gems locally (including Jekyll). It has a Gemfile which you can use to get started. Though, that uses the standard GH Pages and Jekyll 3.9 approach. And also without GH Actions. ",
     "url": "https://joelthomastr.github.io/lipu-suli_lukin_taso/local-setup.html",
     "relUrl": "/local-setup.html"
-  },"7": {
+  },"8": {
     "doc": "Resources",
     "title": "Resources",
     "content": "If you want to learn how about the tools and services used to make this project, see the links below. | Jekyll resources. | A static site generator which uses markdown or HTML content and allows use of themes. | . | GitHub Actions resources. | Including links to the officials docs and my blog posts own getting started with GH Actions. Plus there are links to my cookbook and cheatsheets so you can learn more about GitHub Actions - solving a variety of cased around Jekyll, Node, Python and more. | . | GitHub Pages resources. | For hosting your static website. | . | Just The Docs theme on RubyGems | . I also wrote a tutorial on the Jekyll around using GitHub Actions. So check that out for more info on how this template works. The main difference is that the tutorial uses a Jekyll-specific action while this template project uses a more generic but easy Ruby-based flow. | CI/CD - GitHub Actions | . If you are interested in seeing more Jekyll projects, have a look here. This is based on the Jekyll CLI quickstart but doesn’t use GH Actions. | jekyll-blog-demo | . ",
