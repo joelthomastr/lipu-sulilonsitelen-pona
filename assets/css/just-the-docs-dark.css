@@ -1542,8 +1542,10 @@ figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; 
 
 h1, h2, h3, h4, h5, h6, p, li, ul, div.site-header, input.search-input { font-family: 'linja pona'; text-rendering: optimizeLegibility; font-size: 1.3em; }
 
-ul.nav-list { font-family: 'linja pona'; text-rendering: optimizeLegibility; font-size: 1.7em; }
+.nav-list .nav-list-item .nav-list-link.active { font-family: 'linja pona'; text-rendering: optimizeLegibility; font-size: 1.7em; }
 
 footer.site-footer { font: inherit; }
+
+eng { font: inherit; }
 
 /*# sourceMappingURL=just-the-docs-dark.css.map */
